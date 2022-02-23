@@ -1,4 +1,4 @@
-# Generating the WHAMR! dataset
+# Generating the WHAMR_ext dataset
 
 ## Python requirements
 
