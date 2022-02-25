@@ -9,6 +9,12 @@ See WHAMR website for original requirements: http://wham.whisper.ai/
 This requires the wsj0 (https://catalog.ldc.upenn.edu/LDC93S6A/) dataset,
 and the WHAM noise corpus available here (*http://wham.whisper.ai/*).
 
+Additional requirements:
+
+```sh
+$ pip install pandas
+```
+
 ## Creating WHAMR_ext
 
 Copy and merge the content of this repositary with the original WHAMR simulation scripts: https://storage.googleapis.com/whisper-public/whamr_scripts.tar.gz
