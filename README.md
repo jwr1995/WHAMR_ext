@@ -54,7 +54,7 @@ Cite the WHAMR paper:
 Cite out paper:
 
 ```sh
-@inproceedings{Ravenscroft2022TCN,
+@misc{Ravenscroft2022TCN,
     title     = {Temporal Convolutional Networks for Monaural Speech Dereverberation},
     author    = {Ravenscroft, William and Goetze, Stefan and Hain, Thomas},
     year      = {2022},
