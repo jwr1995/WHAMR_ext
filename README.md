@@ -13,6 +13,15 @@ and the WHAM noise corpus available here (*http://wham.whisper.ai/*).
 
 Copy and merge the content of this repositary with the original WHAMR simulation scripts: https://storage.googleapis.com/whisper-public/whamr_scripts.tar.gz
 
+To re-run the reverb paramater generation
+```sh
+$ cd data
+$ python extended.py
+$ cd ../
+```
+
+To simulate WHAMR_ext:
+
 ```sh
 $ python create_whamr_ext_from_scratch.py 
     --wsj0-root /path/to/the/wsj/dataset/ 
