@@ -50,12 +50,14 @@ Cite the WHAMR paper:
     month     = may
 }
 ```
+
 Cite out paper:
-Cite the WHAMR paper:
 
 ```sh
-@inproceedings{Maciejewski2020WHAMR,
-    title     = {WHAMR!: Noisy and Reverberant Single-Channel Speech Separation},
+@inproceedings{Ravenscroft2022TCN,
+    title     = {Temporal Convolutional Networks for Monaural Speech Dereverberation},
     author    = {Ravenscroft, William and Goetze, Stefan and Hain, Thomas},
+    year      = {2022},
+    month     = february
 }
 ```
