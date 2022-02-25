@@ -2,7 +2,7 @@
 Code has been adapted from the WHAMR corpus simulation scripts for more please see:
 https://wham.whisper.ai/
 
-Original code 2019 - WHAMR - Matthew Maciejewski, Gordon Wichern, Emmett McQuinn, Jonathan Le Roux, CC BY-NC 4.0
+Original code 2020 - WHAMR - Matthew Maciejewski, Gordon Wichern, Emmett McQuinn, Jonathan Le Roux, CC BY-NC 4.0
 
 Adapted 2022 - Department of Comptuer Science, University of Sheffield - W. Ravenscroft
 
