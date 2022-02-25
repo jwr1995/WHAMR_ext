@@ -51,7 +51,7 @@ Cite the WHAMR paper:
 }
 ```
 
-Cite out paper:
+Cite our paper:
 
 ```sh
 @misc{Ravenscroft2022TCN,
