@@ -19,7 +19,7 @@ $ pip install pandas
 
 Copy and merge the content of this repositary with the original WHAMR simulation scripts: https://storage.googleapis.com/whisper-public/whamr_scripts.tar.gz
 
-To re-run the reverb paramater generation
+To re-run the reverb paramater generation with a new seed edit data/extended.py and run
 ```sh
 $ cd data
 $ python extended.py
