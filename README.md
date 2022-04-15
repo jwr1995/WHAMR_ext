@@ -1,5 +1,9 @@
 # Generating the WHAMR_ext dataset
 
+This repository is for creating extended datasets to the WHAMR corpus with larger RT60 values (between 1s and 3s).
+
+Link to our paper: https://arxiv.org/pdf/2204.06439.pdf
+
 ## Python requirements
 
 See WHAMR website for original requirements: http://wham.whisper.ai/
@@ -39,7 +43,7 @@ $ python create_whamr_ext_from_scratch.py
 
 
 ## Citation
-Cite the WHAMR paper:
+Please cite the original WHAMR paper:
 
 ```sh
 @inproceedings{Maciejewski2020WHAMR,
@@ -51,13 +55,17 @@ Cite the WHAMR paper:
 }
 ```
 
-Cite our paper:
+Please also cite our paper:
 
 ```sh
-@misc{Ravenscroft2022TCN,
-    title     = {Temporal Convolutional Networks for Monaural Speech Dereverberation},
-    author    = {Ravenscroft, William and Goetze, Stefan and Hain, Thomas},
-    year      = {2022},
-    month     = february
+@misc{https://doi.org/10.48550/arxiv.2204.06439,
+  title = {Receptive Field Analysis of Temporal Convolutional Networks for Monaural Speech Dereverberation},
+  author = {Ravenscroft, William and Goetze, Stefan and Hain, Thomas},
+  year = {2022},
+  month = april,
+  doi = {10.48550/ARXIV.2204.06439},
+  url = {https://arxiv.org/abs/2204.06439},
+  publisher = {arXiv},
+  copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
