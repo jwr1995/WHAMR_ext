@@ -69,3 +69,7 @@ Please also cite our paper:
   copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/receptive-field-analysis-of-temporal/speech-dereverberation-on-whamr)](https://paperswithcode.com/sota/speech-dereverberation-on-whamr?p=receptive-field-analysis-of-temporal)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/receptive-field-analysis-of-temporal/speech-dereverberation-on-whamr-ext)](https://paperswithcode.com/sota/speech-dereverberation-on-whamr-ext?p=receptive-field-analysis-of-temporal)
